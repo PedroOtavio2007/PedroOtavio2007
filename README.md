@@ -31,4 +31,6 @@ Desenvolvo produtos escaláveis, aplicações mobile e sistemas web de alta perf
 
 ### 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=PedroOtavio2007&show_icons=true&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=PedroOtavio2007&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroOtavio2007&layout=compact&theme=dracula)
+
