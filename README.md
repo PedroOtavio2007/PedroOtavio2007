@@ -12,6 +12,10 @@ Desenvolvo produtos escaláveis, aplicações mobile e sistemas web de alta perf
 - 🤝 Entusiasta do trabalho em equipe, buscando aprender e crescer junto com meus colegas em projetos universitários.
 
 ---
+<h3 align="left">Redes para Contato</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedroramos@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/pedro-otávio-b38120353)
 
 ### 💻 Stack Tecnológica
 
@@ -32,7 +36,6 @@ Desenvolvo produtos escaláveis, aplicações mobile e sistemas web de alta perf
 ### 📊 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=PedroOtavio2007&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroOtavio2007&layout=compact&theme=dracula)
 
 
 <picture align="center">
