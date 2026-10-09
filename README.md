@@ -15,7 +15,7 @@ Desenvolvo produtos escaláveis, aplicações mobile e sistemas web de alta perf
 <h3 align="left">Redes para Contato</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedroramos@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/pedro-otávio-b38120353)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedro-ot%C3%A1vio-b38120353/?isSelfProfile=true)
 
 ### 💻 Stack Tecnológica
 
