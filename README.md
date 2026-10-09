@@ -34,8 +34,10 @@ Desenvolvo produtos escaláveis, aplicações mobile e sistemas web de alta perf
 ---
 
 ### 📊 GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=PedroOtavio2007&show_icons=true&theme=dracula)
+<p align=left>
+      <img  width=400 src="https://nirzak-streak-stats.onrender.com/?user=PedroOtavio2007&theme=tokyonight&hide_border=true" alt="Pedro Otávio" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=PedroOtavio2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="Pedro Stats" />
+</p> 
 
 
 <picture align="center">
