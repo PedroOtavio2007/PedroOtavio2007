@@ -34,3 +34,10 @@ Desenvolvo produtos escaláveis, aplicações mobile e sistemas web de alta perf
 ![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=PedroOtavio2007&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroOtavio2007&layout=compact&theme=dracula)
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroOtavio2007/PedroOtavio2007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroOtavio2007/PedroOtavio2007/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
